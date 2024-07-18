@@ -37,7 +37,7 @@ main {
 .header .navigation-panel {
   display: none;
   font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
-  font-weight: lighter;
+  font-weight: normal;
   font-size: 2vw;
   text-align: right;
   border-top: 2px solid #f5bfa2;
@@ -285,13 +285,13 @@ main {
 .heading-text {
   font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
   font-size: 7vw;
-  font-weight: lighter;
+  font-weight: normal;
 }
 
 .subheading-text {
   font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
   font-size: 3.5vw;
-  font-weight: lighter;
+  font-weight: normal;
 }
 
 .center-text {
